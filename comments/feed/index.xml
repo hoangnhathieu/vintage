@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho VINTAGE	</title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoangnhathieu.github.io/vintage</link>
+	<description>Wellcome to Vintage</description>
+	<lastBuildDate>Thu, 27 May 2021 09:36:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Phản hồi cho Billiard (bida) môn thể thao nghệ thuật dành cho Trader bởi Hoàng Nhật Hiệu		</title>
+		<link>https://hoangnhathieu.github.io/vintage/bida/billiard-bida-mon-the-thao-nghe-thuat-danh-cho-trader/#comment-3</link>
+
+		<dc:creator><![CDATA[Hoàng Nhật Hiệu]]></dc:creator>
+		<pubDate>Thu, 27 May 2021 09:36:31 +0000</pubDate>
+		<guid isPermaLink="false">https://hoangnhathieu.github.io/vintage/?p=30#comment-3</guid>
+
+					<description><![CDATA[hhhh]]></description>
+			<content:encoded><![CDATA[<p>hhhh</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Chào tất cả mọi người! bởi Hoàng Nhật Hiệu		</title>
+		<link>https://hoangnhathieu.github.io/vintage/girl/chao-moi-nguoi/#comment-23</link>
+
+		<dc:creator><![CDATA[Hoàng Nhật Hiệu]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 03:13:34 +0000</pubDate>
+		<guid isPermaLink="false">https://hoangnhathieu.github.io/vintage/?p=1#comment-23</guid>
+
+					<description><![CDATA[Trả lời tới &lt;a href=&quot;https://hoangnhathieu.github.io/vintage/girl/chao-moi-nguoi/#comment-22&quot;&gt;Một người bình luận WordPress&lt;/a&gt;.
+
+ok]]></description>
+			<content:encoded><![CDATA[<p>Trả lời tới <a href="https://hoangnhathieu.github.io/vintage/girl/chao-moi-nguoi/#comment-22">Một người bình luận WordPress</a>.</p>
+<p>ok</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		<link>https://hoangnhathieu.github.io/vintage/girl/chao-moi-nguoi/#comment-22</link>
+
+		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 09:01:56 +0000</pubDate>
+		<guid isPermaLink="false">https://hoangnhathieu.github.io/vintage/?p=1#comment-22</guid>
+
+					<description><![CDATA[Xin chào, đây là một bình luận
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
+Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
+Avatar của người bình luận sử dụng <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
